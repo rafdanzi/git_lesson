@@ -6,5 +6,3 @@ This is the third change to the README file
 
 Git is a version control system that prevent us having the "final doc" problem.
 
-This is a commit that I am not aware of, oe one that I have forgotten about.
-
